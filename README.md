@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm Ahmed Aboelyazeed a computer engineering undergraduate.
-I really like developing bots (specifically messenger bots 😁) that's why I have a couple of repos with weird names as bots  😂
+I really like developing bots (specifically messenger bots 😁)
+</br>That's why I have a couple of repos with weird names as bots  😂
 <img src="https://media.giphy.com/media/l0NgQIwNvU9AUuaY0/source.gif" align="right" height=300 width=300>
 - 🔭 I’m currently working on sharpening my skills as a software engineer.
 - 🌱 I’m currently learning Android development.
