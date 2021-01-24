@@ -10,7 +10,7 @@ I really like developing bots (specifically messenger bots 😁)
 
 ![Ahmed Aboelyazeed Github Stats](https://github-readme-stats.vercel.app/api?username=ahmdaeyz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<a href="https://stackoverflow.com/users/9297478/ahmed-aboelyazeed"><img src="https://stackoverflow.com/users/flair/9297478.png" width="208" height="58" alt="profile for Ahmed Aboelyazeed at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ahmed Aboelyazeed at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<a href="https://stackoverflow.com/users/9297478/ahmed-aboelyazeed"><img src="https://stackoverflow.com/users/flair/9297478.png?theme=dark" width="208" height="58" alt="profile for Ahmed Aboelyazeed at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ahmed Aboelyazeed at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 #### Reach me!
 <br/>
