@@ -5,7 +5,7 @@ I really like developing bots (specifically messenger bots 😁)
 </br>That's why I have a couple of repos with weird names as bots  😂
 <img src="https://media.giphy.com/media/l0NgQIwNvU9AUuaY0/source.gif" align="right" height=300 width=300>
 - 🔭 I’m currently working on sharpening my skills as a software engineer.
-- 🌱 I’m currently learning Android development.
+- 🌱 I’m currently curious about mobile development.
 - 👯 I’m looking to collaborate on anything written in kotlin or dart!
 
 ![Ahmed Aboelyazeed Github Stats](https://github-readme-stats.vercel.app/api?username=ahmdaeyz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
