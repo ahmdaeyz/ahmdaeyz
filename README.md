@@ -9,6 +9,7 @@ I really like developing bots (specifically messenger bots 😁)
 - 👯 I’m looking to collaborate on anything written in kotlin or dart!
 
 ![Ahmed Aboelyazeed Github Stats](https://github-readme-stats.vercel.app/api?username=ahmdaeyz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdaeyz&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ahmdaeyz?tab=repositories)
 
 <a href="https://stackoverflow.com/users/9297478/ahmed-aboelyazeed"><img src="https://stackoverflow.com/users/flair/9297478.png?theme=dark" width="208" height="58" alt="profile for Ahmed Aboelyazeed at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ahmed Aboelyazeed at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
