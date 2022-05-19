@@ -16,5 +16,9 @@ I'm Ahmed Aboelyazeed, A software engineer.
 - I’m currently curious about mobile and backend development.
 - I’m looking to collaborate on anything written in kotlin, dart or php?!
 
+#### Apps built with Flutter that I participated in:
+- [TaskedIn Schooling](https://apps.apple.com/us/app/taskedin-schooling/id1610527915)
+- [Jobs](https://apps.apple.com/us/app/megatrust-jobs/id1547002894)
+
 ![Ahmed Aboelyazeed Github Stats](https://github-readme-stats.vercel.app/api?username=ahmdaeyz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdaeyz&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ahmdaeyz?tab=repositories)
