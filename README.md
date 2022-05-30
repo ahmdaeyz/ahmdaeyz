@@ -14,7 +14,7 @@ I'm Ahmed Aboelyazeed, A software engineer.
 - Author of [generic_validator](https://pub.dev/packages/generic_validator), a pub.dev package.
 - I’m currently working on sharpening my skills as a software engineer.
 - I’m currently curious about mobile and backend development.
-- I’m looking to collaborate on anything written in kotlin, dart or php?!
+- I’m looking to collaborate on anything written in kotlin and dart.
 
 #### Apps built with Flutter that I participated in:
 - **TaskedIn Schooling** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.megaschoolingprod)) ([IOS](https://apps.apple.com/app/id1610527915))
