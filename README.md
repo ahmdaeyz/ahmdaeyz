@@ -14,6 +14,7 @@ I'm Ahmed Aboelyazeed, A software engineer.
 - Author of [generic_validator](https://pub.dev/packages/generic_validator), a pub.dev package.
 - I’m currently working on sharpening my skills as a software engineer.
 - I’m currently curious about mobile and backend development.
+- I'm currently exploring cross-platform mobile solutions (Flutter, ReactNative..etc).
 - I’m looking to collaborate on anything written in kotlin and dart.
 
 #### Apps built with Flutter that I participated in:
