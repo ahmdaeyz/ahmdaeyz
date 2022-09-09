@@ -11,13 +11,14 @@ I'm Ahmed Aboelyazeed, A software engineer.
 <a href="mailto:ahmdaeyz@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-- Author of [generic_validator](https://pub.dev/packages/generic_validator), a pub.dev package.
+- Author of [generic_validator](https://pub.dev/packages/generic_validator), [ntoaster](https://pub.dev/packages/ntoaster) pub.dev packages.
 - I’m currently working on sharpening my skills as a software engineer.
 - I’m currently curious about mobile and backend development.
 - I'm currently exploring cross-platform mobile solutions (Flutter, ReactNative..etc).
 - I’m looking to collaborate on anything written in kotlin and dart.
 
 #### Apps built with Flutter that I participated in:
+- **Awaed|عوائد** ([Android](https://play.google.com/store/apps/details?id=com.awaed.app)) ([IOS](https://apps.apple.com/sa/app/%D8%B9%D9%88%D8%A7%D8%A6%D8%AF/id1610134585))
 - **TaskedIn Schooling** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.megaschoolingprod)) ([IOS](https://apps.apple.com/app/id1610527915))
 - **Sanad** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.donationsApp)) ([IOS](https://apps.apple.com/us/app/sanad-%D8%B3%D9%86%D8%AF/id1623141495))
 - **Mega Books** ([Android](https://play.google.com/store/apps/details?id=net.megatrust.megabooks)) ([IOS](https://apps.apple.com/us/app/mega-books/id1596646061))
